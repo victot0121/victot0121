@@ -1,0 +1,70 @@
+.story{
+    background-image: url(./image/joshua-rawson-harris-TYdYrjdpSZ8-unsplash.jpg);
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 12%;
+    height: 190px;
+    margin-left: 10px;
+    margin-right: 19px;
+    box-shadow: 0px 5px 17px -7px rgba( 0, 0, 0, 0.75);
+    border-radius: 10px;
+    margin-top: 10px;
+    transition: transform 100ms ease-in;
+    cursor: pointer;
+}
+.story:hover{
+    transform: scale(1.07);
+}
+.story__avatar{
+    margin: 10px;
+    border: 5px solid #2e81fa;
+}
+.story > h4{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    color: white;
+}
+.story:nth-child(2){
+    background-image: url(./image/What\ song.jfif);
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.story:nth-child(3){
+    background-image: url(./image/zane-lee-brVkInFjtuo-unsplash.jpg);
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.story:nth-child(4){
+    background-image: url(./image/Questions\ Everyone\ Loves.jfif);
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.story:nth-child(5){
+    background-image: url(./image//Do\ you\ suffer.jfif);
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.story:nth-child(6){
+    background-image: url(./image/jonas.jpg);
+    position: relative;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+@media screen and (max-width: 1000px){
+    .story{
+        width: 75px;
+    }
+   
+}

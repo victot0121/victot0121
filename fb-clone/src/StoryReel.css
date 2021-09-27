@@ -1,0 +1,14 @@
+.app{
+    background-color: #f1f2f5;
+    height: 100vh;
+}
+.storyReel{
+    display: flex;
+}
+@media screen and (max-width: 700px){
+    .storyReel__story{
+       max-width: 40px;
+       max-height: 40px;
+       color: bisque;
+    }
+}

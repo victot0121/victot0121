@@ -1,0 +1,9 @@
+.widgets{
+    background-color: #f1f2f5;
+    
+}
+@media screen and (max-width: 1300px){
+    .widgets{
+      display: none;
+    }
+}
