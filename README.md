@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oyiga Victor
+# [![Master Header](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Oyiga Victor
 ====================================================================================================================================
 
 Frontend Engineer
@@ -6,15 +8,17 @@ Frontend Engineer
 
 I ensure that website visitors can easily interact with the page. This is achieved through the use of design, technology, programming, and debugging to code a website's appearance.
 
-* 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [Myportfolic](http://oyigavictor.netlify.app/)
-* ✉️  You can contact me at [Victoroyiga01@gmail.com](mailto:Victoroyiga01@gmail.com)
-* 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on React or Next Js Projects
-* ⚡  I think im funny but i'm not 😂😢
+* 🌍 I'm based in Lagos, Nigeria
+* 🖥️ See my portfolio at [My Portfolio](http://oyigavictor.netlify.app/)
+* ✉️ You can contact me at [Victoroyiga01@gmail.com](mailto:Victoroyiga01@gmail.com)
+* 🧠 I'm learning React Native
+* 🤝 I'm open to collaborating on React or Next.js Projects
+* ⚡ I think I'm funny but I'm not 😂😢
 
-<a href="https://www.github.com/Victot0121" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Victot0121?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/cz2LvaVsMwy4ZNBEA" >
+
+<a href="https://www.github.com/Victot0121" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Victot0121?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
+
 
 ### Skills
 
