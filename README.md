@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+# [![Master Header](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oyiga Victor
 ====================================================================================================================================
@@ -38,8 +38,8 @@ src="https://img.shields.io/github/followers/Victot0121?logo=github&style=for-th
 
 <a href="http://www.github.com/Victot0121"><img src="https://github-readme-stats.vercel.app/api?username=Victot0121&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Victot0121's GitHub stats" /></a>
 
-<a href="http://www.github.com/Victot0121"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Victot0121&stroke=ef4444&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+<a href="http://www.github.com/Victot0121"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Victot0121&stroke=ef4444&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>](https://images.app.goo.gl/cz2LvaVsMwy4ZNBEA)
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" alhttps://images.app.goo.gl/cz2LvaVsMwy4ZNBEAign="center"></div><br /><br /><br /><br /><br /><br /><br />
