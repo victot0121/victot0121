@@ -41,6 +41,6 @@ I ensure that website visitors can easily interact with the page. This is achiev
 
 <div width="100%" align="center"><a href="https://github.com/Victot0121/Disney-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Victot0121&repo=Disney-clone&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Victot0121/youtude-clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Victot0121&repo=youtude-clone&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Victot0121/react-crypto-tracker-master" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Victot0121&repo=react-crypto-tracker-master&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
