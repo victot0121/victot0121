@@ -37,10 +37,5 @@ I ensure that website visitors can easily interact with the page. This is achiev
 
 <a href="http://www.github.com/Victot0121"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Victot0121&stroke=3382ed&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Victot0121/Disney-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Victot0121&repo=Disney-clone&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Victot0121/youtude-clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Victot0121&repo=youtude-clone&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/Victot0121/react-crypto-tracker-master" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Victot0121&repo=react-crypto-tracker-master&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
