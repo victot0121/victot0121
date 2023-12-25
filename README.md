@@ -17,7 +17,8 @@ I ensure that website visitors can easily interact with the page. This is achiev
 * ⚡ I think I'm funny but I'm not 😂😢
 
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" >
+![GitHub followers](https://img.shields.io/github/followers/victot0121?style=%20for-the-badge&logo=github)
+
 
 
 <a href="https://www.github.com/Victot0121" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Victot0121?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
