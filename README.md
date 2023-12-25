@@ -21,10 +21,6 @@ I ensure that website visitors can easily interact with the page. This is achiev
 
 
 
-<a href="https://www.github.com/Victot0121" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Victot0121?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
-
-
-
 ### Skills
 
 <p align="left">
