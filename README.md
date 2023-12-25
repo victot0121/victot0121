@@ -19,15 +19,19 @@ I ensure that website visitors can easily interact with the page. This is achiev
 
 ![GitHub followers](https://img.shields.io/github/followers/victot0121?style=%20for-the-badge&logo=github)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<p align="center">
  <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:Victoroyiga01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+</p>
+ 
 
 
 
