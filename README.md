@@ -27,7 +27,7 @@ I ensure that website visitors can easily interact with the page. This is achiev
   <a href="mailto:Victoroyiga01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/oyiga-victor" target="_blank">
+  <a href="https://www.linkedin.com/in/oyiga-victor-a304b6220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </p>
