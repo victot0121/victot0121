@@ -11,7 +11,7 @@ I ensure that website visitors can easily interact with the page. This is achiev
 * 🌍 I'm based in Lagos, Nigeria
 * 🖥️ See my portfolio at [My Portfolio](http://oyigavictor.netlify.app/)
 * ✉️ You can contact me at [Victoroyiga01@gmail.com](mailto:Victoroyiga01@gmail.com)
-* 🧠 I'm learning React Native
+* 🧠 I'm learning Svelte
 * 🤝 I'm open to collaborating on React or Next.js Projects
 * 📫 You can [view my resume](https://drive.google.com/file/d/1RNTjUmx2zoVetXJARa_mso14jBPlMVZz/view?usp=sharing) and contact me by emailing victoroyiga01@gmail.com.
 * ⚡ I think I'm funny but I'm not 😂😢
