@@ -9,7 +9,7 @@ Frontend Engineer
 I ensure that website visitors can easily interact with the page. This is achieved by coding a website's appearance using design, technology, programming, and debugging.
 
 * 🌍 I'm based in Lagos, Nigeria
-* 🖥️ See my portfolio at [My Portfolio]([http://oyigavictor.netlify.app/](https://oyiga-victor.netlify.app])
+* 🖥️ See my portfolio at [My Portfolio]([http://oyigavictor.netlify.app/](https://oyiga-victor.netlify.app]))
 * ✉️ You can contact me at [Victoroyiga01@gmail.com](mailto:Victoroyiga01@gmail.com)
 * 🧠 I'm learning Svelte
 * 🤝 I'm open to collaborating on React or Next.js Projects
