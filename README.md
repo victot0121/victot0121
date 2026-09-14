@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="100%" alt="Developer animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Oyiga%20Victor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Oyiga Victor
 ====================================================================================================================================
