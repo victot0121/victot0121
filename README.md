@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Oyiga Victor
 ====================================================================================================================================
 
-Frontend Engineer
+Software Engineer
 -----------------
 
 I ensure that website visitors can easily interact with the page. This is achieved by coding a website's appearance using design, technology, programming, and debugging.
